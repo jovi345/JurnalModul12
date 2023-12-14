@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702549036 source:/home/john/Workspace/mll/main.cpp
+	"flight.h"
+
+1702457794 /home/john/Workspace/mll/flight.h
+	<iostream>
+	<string>
+
+1702547734 source:/home/john/Workspace/mll/flight.cpp
+	"flight.h"
+
